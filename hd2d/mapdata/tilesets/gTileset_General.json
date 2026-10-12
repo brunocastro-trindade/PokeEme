@@ -1,0 +1,178 @@
+{
+  "_doc": "Posicionamento 3D dos metatiles. Cada entrada: [camada inferior, camada superior]. Ver hd2d/tools/mapconv/placement.py. Árvores: cores 12-15 da paleta 2 são grama e sombra no chão. Mart e Centro Pokémon: telhado na altura 2, paredes em duas linhas.",
+  "default_floor": "001",
+  "metatiles": {
+    "001": [
+      "ground",
+      "ground"
+    ],
+    "003": [
+      "card 0",
+      "none"
+    ],
+    "004": [
+      "ground",
+      "ground"
+    ],
+    "00D": [
+      "grass cut=12-14",
+      "none"
+    ],
+    "028-029": [
+      "ground",
+      "roof 2"
+    ],
+    "030-033": [
+      "roof 2",
+      "roof 2"
+    ],
+    "038-03B": [
+      "card 1",
+      "card 1"
+    ],
+    "041-043": [
+      "card 0",
+      "card 0"
+    ],
+    "048-049": [
+      "ground",
+      "roof 2"
+    ],
+    "050-053": [
+      "roof 2",
+      "roof 2"
+    ],
+    "058-05B": [
+      "card 1",
+      "card 1"
+    ],
+    "060-063": [
+      "card 0",
+      "card 0"
+    ],
+    "06E": [
+      "ground",
+      "card 0"
+    ],
+    "087": [
+      "ground",
+      "card 0"
+    ],
+    "08E": [
+      "ground",
+      "card 0"
+    ],
+    "0D5-0D6": [
+      "ground",
+      "card 0"
+    ],
+    "150-155": [
+      "water",
+      "card 1"
+    ],
+    "157": [
+      "ground",
+      "card"
+    ],
+    "158-159": [
+      "water",
+      "card"
+    ],
+    "15A-15D": [
+      "water",
+      "card 1"
+    ],
+    "15E-15F": [
+      "ground",
+      "card 1"
+    ],
+    "162-163": [
+      "ground",
+      "card 1"
+    ],
+    "164-165": [
+      "water",
+      "card 1"
+    ],
+    "166-169": [
+      "ground",
+      "card 1"
+    ],
+    "16A-16B": [
+      "ground",
+      "card"
+    ],
+    "16C-16D": [
+      "water",
+      "card 1"
+    ],
+    "16E-16F": [
+      "ground",
+      "card"
+    ],
+    "194": [
+      "ground",
+      "card"
+    ],
+    "1AA-1AC": [
+      "ground",
+      "roof 2"
+    ],
+    "1B2-1B4": [
+      "ground",
+      "roof 2"
+    ],
+    "1B8-1BC": [
+      "ground",
+      "roof 2"
+    ],
+    "1C0-1C5": [
+      "ground",
+      "card 1"
+    ],
+    "1C6-1C7": [
+      "grass cut=12-14",
+      "ground"
+    ],
+    "1C8-1CC": [
+      "ground",
+      "card"
+    ],
+    "1CD": [
+      "card",
+      "card"
+    ],
+    "1CE-1CF": [
+      "ground",
+      "card 2"
+    ],
+    "1D0-1D2": [
+      "ground",
+      "ground"
+    ],
+    "1D4-1D7": [
+      "card 1 cut=12-15",
+      "none"
+    ],
+    "1D8-1DA": [
+      "ground",
+      "ground"
+    ],
+    "1DC-1DF": [
+      "card 0 cut=12-15",
+      "card 2"
+    ],
+    "1E0-1E2": [
+      "ground",
+      "ground"
+    ],
+    "1E4-1E7": [
+      "card 0 cut=12-15",
+      "none"
+    ],
+    "1F2-1F5": [
+      "card 0 cut=12-15",
+      "card 2"
+    ]
+  }
+}

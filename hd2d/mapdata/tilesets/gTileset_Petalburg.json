@@ -1,0 +1,101 @@
+{
+  "_doc": "Posicionamento 3D dos metatiles (ids do tileset secundário começam em 200). Casas de Littleroot e laboratório do Birch: telhado na altura 2, parede superior subida 1, parede da porta subida 0. Casas de Oldale: 26C-276 telhado, 27C parede superior, 284-28F parede da porta.",
+  "metatiles": {
+    "208-20A": [
+      "ground",
+      "roof 2"
+    ],
+    "20C-20E": [
+      "ground",
+      "roof 2"
+    ],
+    "242-243": [
+      "ground",
+      "roof 2"
+    ],
+    "210": [
+      "ground",
+      "roof 2"
+    ],
+    "212": [
+      "ground",
+      "roof 2"
+    ],
+    "211": [
+      "roof 2",
+      "roof 2"
+    ],
+    "214-216": [
+      "roof 2",
+      "roof 2"
+    ],
+    "218-21A": [
+      "roof 2",
+      "roof 2"
+    ],
+    "24A-24B": [
+      "roof 2",
+      "roof 2"
+    ],
+    "20F": [
+      "card 1",
+      "card 1"
+    ],
+    "21E-21F": [
+      "card 1",
+      "card 1"
+    ],
+    "220-223": [
+      "card 1",
+      "card 1"
+    ],
+    "22C-22D": [
+      "card 1",
+      "card 1"
+    ],
+    "230-233": [
+      "card 1",
+      "card 1"
+    ],
+    "240-241": [
+      "card 1",
+      "card 1"
+    ],
+    "217": [
+      "card 0",
+      "card 0"
+    ],
+    "226-22B": [
+      "card 0",
+      "card 0"
+    ],
+    "234-23B": [
+      "card 0",
+      "card 0"
+    ],
+    "248-249": [
+      "card 0",
+      "card 0"
+    ],
+    "26C-26E": [
+      "ground",
+      "roof 2"
+    ],
+    "274-276": [
+      "roof 2",
+      "roof 2"
+    ],
+    "27C-27F": [
+      "card 1",
+      "card 1"
+    ],
+    "284-28F": [
+      "card 0",
+      "card 0"
+    ],
+    "282-283": [
+      "ground",
+      "roof 2"
+    ]
+  }
+}

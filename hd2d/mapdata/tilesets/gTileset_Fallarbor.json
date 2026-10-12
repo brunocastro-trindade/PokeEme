@@ -1,0 +1,29 @@
+{
+  "_doc": "Montanha bege do norte da Route 115 e da Route 114: 241 é o topo dos platôs, 240/243/245/264 paredes que empilham, 253-254 a borda arredondada do topo.",
+  "metatiles": {
+    "240": [
+      "face",
+      "card"
+    ],
+    "241": [
+      "top",
+      "none"
+    ],
+    "243": [
+      "face",
+      "card"
+    ],
+    "245": [
+      "face",
+      "card"
+    ],
+    "253-254": [
+      "top",
+      "ground"
+    ],
+    "264": [
+      "face",
+      "card"
+    ]
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "_doc": "Mt. Chimney, Jagged Pass e Fiery Path: os penhascos vermelhos (268-27F) são faces que empilham; o chão de cinzas (271) é topo, andável ou não. 272 continua como lateral do penhasco de Lavaridge.",
+  "metatiles": {
+    "268-26A": [
+      "face",
+      "card"
+    ],
+    "270": [
+      "face",
+      "card"
+    ],
+    "271": [
+      "top",
+      "none"
+    ],
+    "272": [
+      "face",
+      "card"
+    ],
+    "274": [
+      "face",
+      "card"
+    ],
+    "278": [
+      "face",
+      "card"
+    ],
+    "27A-27C": [
+      "face",
+      "card"
+    ],
+    "27E-27F": [
+      "face",
+      "card"
+    ]
+  }
+}
